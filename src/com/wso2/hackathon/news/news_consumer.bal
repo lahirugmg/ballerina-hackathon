@@ -81,8 +81,8 @@ service<jms> jmsService {
 }
 
 
-string accessToken="ya29.Glt7BPhMS55G4HtH28LqNbfJJxUWifcqZ2XXa5370bKClxJZf4K7pjVWAAsd_ggxlHAlVRQlqQmhy_6uzlZY2bwmYx32yYt-BXKTEr0J1e6MRPkJQFlKNFNB6PUV";
-string refreshToken = "1/XCn08tgPmMUGrH5PuWUnv0NnS8hJpxMbdsM-uFpIX0Q";
+string accessToken="ya29.-BXKTEr0J1e6MRPkJQFlKNFNB6PUV";
+string refreshToken = "1/-uFpIX0Q";
 
 string userId = "lahirugmg@gmail.com";
 function init () (gmail:ClientConnector gmailConnector) {
